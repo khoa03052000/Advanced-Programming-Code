@@ -1,0 +1,10 @@
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\obj\Debug\VoLamTruyenKy.csprojAssemblyReference.cache
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\obj\Debug\VoLamTruyenKy.csproj.CoreCompileInputs.cache
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\bin\Debug\VoLamTruyenKy.exe.config
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\bin\Debug\VoLamTruyenKy.exe
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\bin\Debug\VoLamTruyenKy.pdb
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\obj\Debug\VoLamTruyenKy.exe
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\obj\Debug\VoLamTruyenKy.pdb
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\bin\Debug\log4net.dll
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\bin\Debug\log4net.xml
+D:\UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\School Job\CMS\1651 - Advance Programming\ASM\ASM-KHOA\Code\VoLamTruyenKy\VoLamTruyenKy\obj\Debug\VoLamTruyenKy.csproj.CopyComplete
